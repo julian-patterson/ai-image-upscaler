@@ -4,8 +4,8 @@ An AI image upscaler using different pretained models to upscale images by a fac
 
 ## Installation
 
-**This only works with Ubuntu based Linux Distributions**
-**For other installation methods refer to [OpenCV's website](https://docs.opencv.org/4.x/df/d65/tutorial_table_of_content_introduction.html)**
+**This only works with Ubuntu based Linux Distributions, **
+**for other installation methods refer to [OpenCV's website](https://docs.opencv.org/4.x/df/d65/tutorial_table_of_content_introduction.html)**
 
 ### Clone this repository
 
@@ -20,8 +20,11 @@ Installing the neccessary prerequisites:
 
 Downloading and installing opencv packages:
 `wget -O opencv.zip https://github.com/opencv/opencv/archive/4.x.zip`
+
 `wget -O opencv.zip https://github.com/opencv/opencv/archive/4.x.zip`
+
 `unzip opencv.zip`
+
 `unzip opencv_contrib.zip`
 
 Creating a build directory:
