@@ -4,8 +4,7 @@ An AI image upscaler using different pretained models to upscale images by a fac
 
 ## Installation
 
-**This only works with Ubuntu based Linux Distributions, **
-**for other installation methods refer to [OpenCV's website](https://docs.opencv.org/4.x/df/d65/tutorial_table_of_content_introduction.html)**
+**This only works with Ubuntu based Linux Distributions, for other installation methods refer to [OpenCV's website](https://docs.opencv.org/4.x/df/d65/tutorial_table_of_content_introduction.html)**
 
 ### Clone this repository
 
